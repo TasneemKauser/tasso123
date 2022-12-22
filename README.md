@@ -1,2 +1,2 @@
-# tasso123
-Just a beginner!
+Python
+Beginner
